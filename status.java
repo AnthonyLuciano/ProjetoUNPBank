@@ -44,7 +44,7 @@ public class status {
             System.out.println("1. trocar status");
             System.out.println("2. checar se pode performar transações");
             System.out.println("3. Sair");
-            System.out.println("\n[escolha uma opção:]");
+            System.out.println("\n[escolha uma opção]:");
 
             int choice = scanner.nextInt();
             nada();
