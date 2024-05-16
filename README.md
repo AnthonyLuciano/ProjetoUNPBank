@@ -1,4 +1,4 @@
-# Projeto de Turma : UnP Bank
+# Projeto de Desenvolvimento de uma aplicação Bancária
 Esse é um projeto feito em grupo na faculdade UnP.
 
 ### Roadmap, ainda a ser completada
