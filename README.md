@@ -13,4 +13,3 @@ Esse é um projeto feito em grupo na faculdade UnP.
 ⬜Cadastro de Clientes - em progresso - Pedro & Fernando
 ⬜Banco de dados - em progresso - Augusto
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro
-
