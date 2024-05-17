@@ -12,6 +12,8 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Contador de usuários ID - Fernando & Pedro/3
 
+⬜Login de Clientes - em progresso - Augusto/3
+
 ⬜Gerador de IDs aleatórios - em progresso - Fernando & Pedro/4
 
 ⬜Calculador de valor da conta corrente - em progresso JV/2
