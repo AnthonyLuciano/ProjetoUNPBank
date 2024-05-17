@@ -10,11 +10,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Boas vindas ao usuário- Sidney/2
 
-⬜Contador de usuários ID - em progresso Sidney/3
+⬜Contador de usuários ID - em progresso- Fernando & Pedro
 
-⬜Calculador de valor da conta corrente - em progresso Sidney/4
+⬜Calculador de valor da conta corrente - em progresso Sidney/3
 
-⬜Pesquisa de Cliente - em progresso - Sidney/5
+⬜Pesquisa de Cliente - em progresso - Augusto
 
 ⬜Transações da Conta Corrente - em progresso - JV
 
