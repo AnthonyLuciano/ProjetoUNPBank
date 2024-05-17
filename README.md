@@ -8,13 +8,13 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Validador de status - Anthony/2
 
-✔Boas vindas ao usuário- Sidney/3
+✔Boas vindas ao usuário- Sidney/2
 
-⬜Contador de usuários ID - em progresso Sidney/4
+⬜Contador de usuários ID - em progresso Sidney/3
 
-⬜Calculador de valor da conta corrente - em progresso Sidney/5
+⬜Calculador de valor da conta corrente - em progresso Sidney/4
 
-⬜Pesquisa de Cliente - em progresso - Sidney/6
+⬜Pesquisa de Cliente - em progresso - Sidney/5
 
 ⬜Transações da Conta Corrente - em progresso - JV
 
