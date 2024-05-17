@@ -1,55 +1,64 @@
+import java.util.HashSet;
+import java.util.Set;
 import java.util.UUID;
 
-public class Conta {
-    private UUID id;
+class Cliente {
+    private String id;
     private String nome;
-    private double saldo;
 
-    public Conta(String nome, double saldo) {
-        this.id = UUID.randomUUID(); // Gera um ID único
-        this.nome = nome;
-        this.saldo = saldo;
-    }
-
-    // Getters e Setters
-    public UUID getId() {
-        return id;
-    }
-
-    public void setId(UUID id) {
+    public Cliente(String id, String nome) {
         this.id = id;
+        this.nome = nome;
+    }
+
+    public String getId() {
+        return id;
     }
 
     public String getNome() {
         return nome;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Cliente cliente = (Cliente) o;
+        return id.equals(cliente.id);
     }
 
-    public double getSaldo() {
-        return saldo;
-    }
-
-    public void setSaldo(double saldo) {
-        this.saldo = saldo;
+    @Override
+    public int hashCode() {
+        return id.hashCode();
     }
 
     @Override
     public String toString() {
-        return "Conta{" +
-                "id=" + id +
-                ", nome='" + nome + '\'' +
-                ", saldo=" + saldo +
-                '}';
+        return "Cliente{id=" + id + ", nome='" + nome + '\'' + '}';
     }
 
-    public static void main(String[] args) {
-        Conta conta1 = new Conta("João", 1000.0);
-        Conta conta2 = new Conta("Maria", 2000.0);
+    public static String generateUniqueID() {
+        String uuid = UUID.randomUUID().toString().replace("-", ""); // Remove os hífens
+        return uuid + "0"; // Adiciona um dígito extra para completar 33 caracteres
+    }
+}
 
-        System.out.println(conta1);
-        System.out.println(conta2);
+public class Main {
+    public static void main(String[] args) {
+        Set<Cliente> clientes = new HashSet<>();
+
+        Cliente cliente1 = new Cliente(Cliente.generateUniqueID(), "Maria");
+        Cliente cliente2 = new Cliente(Cliente.generateUniqueID(), "João");
+        Cliente cliente3 = new Cliente(Cliente.generateUniqueID(), "Ana");
+        Cliente cliente4 = new Cliente(Cliente.generateUniqueID(), "Pedro");
+
+        clientes.add(cliente1);
+        clientes.add(cliente2);
+        clientes.add(cliente3);
+        clientes.add(cliente4);
+
+        for (Cliente cliente : clientes) {
+            System.out.println(cliente);
+        }
     }
 }
