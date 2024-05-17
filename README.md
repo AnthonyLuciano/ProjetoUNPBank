@@ -10,11 +10,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Boas vindas ao usuário- Sidney/2
 
-⬜Contador de usuários ID - em progresso- Fernando & Pedro
+⬜Contador de usuários ID - em progresso- Fernando & Pedro/3
 
-⬜Calculador de valor da conta corrente - em progresso Sidney/3
+⬜Calculador de valor da conta corrente - em progresso JV/2
 
-⬜Pesquisa de Cliente - em progresso - Augusto
+⬜Pesquisa de Cliente - em progresso - Augusto/2
 
 ⬜Transações da Conta Corrente - em progresso - JV
 
@@ -22,5 +22,5 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜Banco de dados - em progresso - Augusto
 
-⬜Inclusão de conta corrente - em progresso - Fernando & Pedro
+⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
