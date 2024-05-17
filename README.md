@@ -10,7 +10,9 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Boas vindas ao usuário- Sidney/2
 
-⬜Contador de usuários ID - em progresso- Fernando & Pedro/3
+✓Contador de usuários ID - Fernando & Pedro/3
+
+⬜Gerador de IDs aleatórios - em progresso - Fernando & Pedro/4
 
 ⬜Calculador de valor da conta corrente - em progresso JV/2
 
