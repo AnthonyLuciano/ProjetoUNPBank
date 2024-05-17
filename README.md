@@ -14,13 +14,13 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Gerador de IDs aleatórios - Fernando & Pedro/4
 
+✓Transações da Conta Corrente - em progresso - JV
+
 ⬜Login de Clientes - em progresso - Augusto/3
 
 ⬜Calculador de valor da conta corrente - em progresso JV/2
 
 ⬜Pesquisa de Cliente - em progresso - Augusto/2
-
-⬜Transações da Conta Corrente - em progresso - JV
 
 ⬜Cadastro de Clientes - em progresso - Pedro & Fernando
 
