@@ -16,7 +16,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Transações da Conta Corrente - em progresso - JV
 
-⬜Login de Clientes - em progresso - Augusto/3
+⬜Login de Clientes - em progresso - Augusto/3 & JV
 
 ⬜Calculador de valor da conta corrente - em progresso JV/2
 
@@ -24,7 +24,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜Cadastro de Clientes - em progresso - Pedro & Fernando
 
-⬜Banco de dados - em progresso - Augusto
+⬜Banco de dados - em progresso - Augusto & JV
 
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
