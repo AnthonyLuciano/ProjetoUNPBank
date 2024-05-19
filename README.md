@@ -28,3 +28,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
+⬜Atualização de Cliente & Exclusão de cliente
+
+⬜Atualização de Conta Corrente & Exclusão de conta corrente 
+
+⬜Diagramas
+
+⬜Revisar alguns codes para ficar funcionais com o sistema
+
