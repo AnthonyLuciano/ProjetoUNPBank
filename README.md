@@ -20,9 +20,9 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Calculador de valor da conta corrente - em progresso JV/2
 
-⬜Pesquisa de Cliente - em progresso - Anthony /3
+✓Cadastro de Clientes - em progresso - Pedro & Fernando
 
-⬜Cadastro de Clientes - em progresso - Pedro & Fernando
+⬜Pesquisa de Cliente - em progresso - Anthony /3
 
 ⬜Banco de dados - em progresso - Augusto & JV/2
 
