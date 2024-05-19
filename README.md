@@ -18,7 +18,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Login de Clientes - Augusto/2 & JV/3
 
-⬜Calculador de valor da conta corrente - em progresso JV/2
+✓Calculador de valor da conta corrente - em progresso JV/2
 
 ⬜Pesquisa de Cliente - em progresso - Anthony /3
 
