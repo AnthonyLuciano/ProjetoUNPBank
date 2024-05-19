@@ -16,7 +16,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Transações da Conta Corrente - em progresso - JV
 
-⬜Login de Clientes - em progresso - Augusto/2 & JV/3
+✓Login de Clientes - Augusto/2 & JV/3
 
 ⬜Calculador de valor da conta corrente - em progresso JV/2
 
