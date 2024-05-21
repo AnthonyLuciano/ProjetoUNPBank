@@ -22,7 +22,9 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Cadastro de Clientes - em progresso - Pedro & Fernando
 
-⬜Pesquisa de Cliente - em progresso - Anthony /3
+⬜PIN de 5 dígitos/Email/aleatóriamente - em progresso - Anthony/4
+
+⬜Pesquisa de Cliente - em progresso - Anthony/3
 
 ⬜Banco de dados - em progresso - Augusto & JV/2
 
