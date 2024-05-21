@@ -20,7 +20,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Calculador de valor da conta corrente - em progresso JV/2
 
-✓Cadastro de Clientes - em progresso - Pedro & Fernando
+✓Cadastro de Clientes - Pedro & Fernando
 
 ⬜PIN de 5 dígitos/Email/aleatóriamente - em progresso - Anthony/4
 
