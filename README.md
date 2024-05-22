@@ -26,7 +26,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜Pesquisa de Cliente - em progresso - Anthony/3
 
-⬜Banco de dados - em progresso - Augusto & JV/2
+✓Banco de dados - em progresso - Augusto & JV/2
 
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
