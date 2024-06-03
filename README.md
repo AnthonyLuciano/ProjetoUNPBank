@@ -22,8 +22,6 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Cadastro de Clientes - Pedro & Fernando
 
-⬜PIN de 5 dígitos/Email/aleatóriamente - em progresso - Anthony/4
-
 ✓Pesquisa de Cliente - Augusto/3
 
 ✓Banco de dados - em progresso - Augusto/4
@@ -32,9 +30,9 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Atualização de Cliente & Exclusão de cliente - Augusto/5
 
-⬜Atualização de Conta Corrente & Exclusão de conta corrente 
+⬜Atualização de Conta Corrente & Exclusão de conta corrente - Augusto/5
 
-✓Diagramas Anthony/5
+✓Diagramas Anthony/4
 
 ⬜Revisar alguns codes para ficar funcionais com o sistema
 
