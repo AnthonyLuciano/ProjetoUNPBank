@@ -16,19 +16,19 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Transações da Conta Corrente - JV
 
-✔Login de Clientes - Augusto/2
+✔Login de Cliente[Scrapped]- Augusto/2
 
 ✔Calculador de valor da conta corrente - JV/2
 
 ✔Cadastro de Clientes - Pedro & Fernando
 
-✔Pesquisa de Cliente - Augusto/3
+✔Pesquisar - Anthony/3
 
-✔Banco de dados - em progresso - Augusto/4
+✔Banco de dados - em progresso - Augusto/3
 
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
-✔Atualização de Cliente & Exclusão de cliente - Augusto/5
+✔Atualização de Cliente & Exclusão de cliente - Augusto/4
 
 ⬜Atualização de Conta Corrente & Exclusão de conta corrente - Augusto/5
 
