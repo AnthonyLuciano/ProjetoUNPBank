@@ -32,7 +32,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜Atualização de Conta Corrente & Exclusão de conta corrente - Augusto/5
 
-✔Diagramas Anthony/4
+✔Diagrama Caso de Uso Anthony/4
+
+⬜Diagrama de Classe Anthony/5
+
+⬜Especificação caso de uso Anthony/6
 
 ⬜Revisar alguns codes para ficar funcionais com o sistema
 
