@@ -12,11 +12,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✓Contador de usuários ID - Fernando & Pedro/3
 
-✓Gerador de IDs aleatórios - Fernando & Pedro/4
+✓Gerador de IDs aleatórios - Augusto
 
 ✓Transações da Conta Corrente - JV
 
-✓Login de Clientes - Augusto/2 & JV/3
+✓Login de Clientes - Augusto/2
 
 ✓Calculador de valor da conta corrente - JV/2
 
@@ -24,17 +24,17 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ⬜PIN de 5 dígitos/Email/aleatóriamente - em progresso - Anthony/4
 
-⬜Pesquisa de Cliente - em progresso - Anthony/3
+✓Pesquisa de Cliente - Augusto/3
 
-✓Banco de dados - em progresso - Augusto & JV/2
+✓Banco de dados - em progresso - Augusto/4
 
 ⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
-⬜Atualização de Cliente & Exclusão de cliente
+✓Atualização de Cliente & Exclusão de cliente - Augusto/5
 
 ⬜Atualização de Conta Corrente & Exclusão de conta corrente 
 
-⬜Diagramas
+✓Diagramas Anthony/5
 
 ⬜Revisar alguns codes para ficar funcionais com o sistema
 
