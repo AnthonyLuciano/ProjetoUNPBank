@@ -34,9 +34,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Diagrama Caso de Uso Anthony/4
 
-⬜Diagrama de Classe Anthony/5
+✔Diagrama de Classe Anthony/5
 
-⬜Especificação caso de uso Anthony/6
+✔Especificação caso de uso Anthony/6
+
+Diagrama de atividade Anthony/7
 
 ⬜Revisar alguns codes para ficar funcionais com o sistema
 
