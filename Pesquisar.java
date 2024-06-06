@@ -41,9 +41,9 @@ public class Pesquisar {
                 campo = "cpf_cliente";
                 break;
             case 3:
-                System.out.print("Digite a data de nascimento do cliente: ");
+                System.out.print("Digite o ID do cliente: ");
                 valor = scanner.nextLine();
-                campo = "idade_cliente";
+                campo = "id_cliente";
                 break;
             default:
                 System.out.println("Opção inválida!");
@@ -68,7 +68,7 @@ public class Pesquisar {
                     System.out.println("Sexo: " + rs.getString("sexo_cliente"));
                 } else {
                     // Exibe uma mensagem caso não encontre nenhum resultado
-                    System.out.println("Nenhum cliente encontrado encontrado com " + campo + " " + valor);
+                    System.out.println("Nenhum cliente encontrado com " + campo + " " + valor);
                 }
             }
         } catch (Exception e) {
