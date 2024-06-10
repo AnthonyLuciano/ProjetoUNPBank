@@ -1,4 +1,4 @@
-create database unpbank;
+create database if not exists unpbank;
 use unpbank;
 CREATE TABLE clientes (
   id_cliente int DEFAULT NULL,
