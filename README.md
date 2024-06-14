@@ -26,11 +26,11 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Banco de dados - em progresso - Augusto/3
 
-⬜Inclusão de conta corrente - em progresso - Fernando & Pedro/2
+✓Inclusão de conta corrente - em progresso - Fernando & Pedro/2
 
 ✔Atualização de Cliente & Exclusão de cliente - Augusto/4
 
-⬜Atualização de Conta Corrente & Exclusão de conta corrente - Augusto/5
+✓Atualização de Conta Corrente & Exclusão de conta corrente - Augusto/5
 
 ✔Diagrama Caso de Uso Anthony/4
 
