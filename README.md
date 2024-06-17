@@ -16,7 +16,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Transações da Conta Corrente - JV
 
-✔Login de Cliente[Scrapped]- Augusto/2
+✔Login de Cliente - Augusto/2
 
 ✔Calculador de valor da conta corrente - JV/2
 
@@ -26,7 +26,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Banco de dados - em progresso - Augusto/3
 
-✓Inclusão de conta corrente - em progresso - Fernando & Pedro/2
+✓Inclusão de conta corrente - Fernando & Pedro/2
 
 ✔Atualização de Cliente & Exclusão de cliente - Augusto/4
 
@@ -38,7 +38,9 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Especificação caso de uso Anthony/6
 
-Diagrama de atividade Anthony/7
+✔Diagrama de atividade Anthony/7
 
+[a todo momento]
 ⬜Revisar alguns codes para ficar funcionais com o sistema
+==
 
