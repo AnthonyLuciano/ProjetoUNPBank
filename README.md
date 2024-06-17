@@ -1,7 +1,7 @@
 # Projeto de Desenvolvimento de Aplicação Bancária
 Esse é um projeto feito em grupo na faculdade UnP.
 
-### Roadmap, ainda a ser completada
+### Roadmap
 ✔Validador de CPF- Anthony
 
 ✔Validador de Idade - Sidney
@@ -40,7 +40,7 @@ Esse é um projeto feito em grupo na faculdade UnP.
 
 ✔Diagrama de atividade Anthony/7
 
-[a todo momento]
+###
 ⬜Revisar alguns codes para ficar funcionais com o sistema
 ==
 
