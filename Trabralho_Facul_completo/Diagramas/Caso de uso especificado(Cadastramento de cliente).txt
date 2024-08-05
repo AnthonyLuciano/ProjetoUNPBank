@@ -1,0 +1,23 @@
+Caso de Uso: Cadastro de Clientes
+========================================================================================================
+Ator Primário: funcionário
+========================================================================================================
+Pré-condições: O funcionário está autenticado no sistema.
+========================================================================================================
+Fluxo Básico:
+
+O funcionário seleciona a opção de cadastrar um novo cliente no sistema.
+
+O sistema exibe um formulário para inserção dos dados do novo cliente, incluindo nome, endereço e telefone.
+
+O funcionário preenche os dados do cliente e confirma a operação.
+
+O sistema valida os dados inseridos.
+
+O sistema armazena as informações do novo cliente no banco de dados.
+
+Pós-condições: O novo cliente é cadastrado no sistema.
+=========================================================================================================
+Fluxo Alternativo:
+
+5a. Se os dados não forem válidos, o sistema exibe uma mensagem de erro e permite ao funcionário corrigi-los.
